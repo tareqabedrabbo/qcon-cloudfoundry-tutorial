@@ -1,4 +1,18 @@
-# Agenda
+# QCon 2012 Cloud Foundry Tutorial
+
+Dave Syer
+- Senior Staff Engineer, VMware, London
+- email: dsyer@vmware.com
+- twitter: @david_syer
+
+Colin Humphreys
+- Carrenza, London
+
+Tareq Abbedrabbo
+- OpenCredo, London
+- twitter: @tareq.abedrabbo
+
+## Agenda
 
 * Overview - cloudy slides
 * Lab 0 - sign up for Cloud Foundry
