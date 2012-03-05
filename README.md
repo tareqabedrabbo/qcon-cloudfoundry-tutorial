@@ -10,7 +10,7 @@ Colin Humphreys
 
 Tareq Abbedrabbo
 - OpenCredo, London
-- twitter: @tareq.abedrabbo
+- twitter: @tareq_abedrabbo
 
 ## Agenda
 
