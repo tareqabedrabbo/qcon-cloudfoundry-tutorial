@@ -10,7 +10,8 @@ Colin Humphreys
 - twitter: @hatofmonkeys
 
 Tareq Abbedrabbo
-- OpenCredo, London
+- Principal Consultant, OpenCredo, London
+- email: tareq.abedrabbo@opencredo.com
 - twitter: @tareq_abedrabbo
 
 ## Agenda
