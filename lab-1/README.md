@@ -1,5 +1,9 @@
 # A simple hello world app.
 
+In this lab, we will create a simple application in the Ruby framework
+[Sinatra](http://www.sinatrarb.com/) and then deploy it in Cloud
+Foundry.
+
 (From [VCAP README](https://github.com/cloudfoundry/vcap).)
 
 ## Create the app
@@ -48,8 +52,8 @@ Note that hitting refresh will show a different port in each refresh reflecting 
 
 Which should yield the following output:
 
-    +-------------+----+---------+-------------+----------+
-    | Application | #  | Health  | URLS        | Services |
-    +-------------+----+---------+-------------+----------+
-    | env         | 4  | RUNNING | env.vcap.me |          |
-    +-------------+----+---------+-------------+----------+
+    +-------------+----+---------+------------------------------+----------+
+    | Application | #  | Health  | URLS                         | Services |
+    +-------------+----+---------+------------------------------+----------+
+    | env         | 4  | RUNNING | <unique>env.cloudfoundry.com |          |
+    +-------------+----+---------+------------------------------+----------+

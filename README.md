@@ -1,6 +1,7 @@
 # Agenda
 
 * Overview - cloudy slides
+* Lab 0 - sign up for Cloud Foundry
 * explain vmc use
 * Lab 1 - install simple sinatra app to cloudfoundry.com
 * micro cloud explanation
@@ -11,22 +12,6 @@
 * services - summary slide on each service
 * Lab 5 - spring app + service
 * polyglot/devops fork
-
-# Registration at CloudFoundry.com
-
-If you don't already have an account at CloudFoundry.com, you can sign
-up at [www.cloudfoundry.com](http://www.cloudfoundry.com).  If you are
-physically at the QCon Tutorial there is a promo code for automatic
-approval (see whiteboard).
-
-# Micro Cloud Installation
-
-Micro Cloud Foundry (MicroCloud or MCF) is a shrink-wrapped virtual
-appliance that anyone can run to get a Cloud Foundry instance on their
-desktop.  There is a download link for MicroCloud on the main
-[Cloud Foundry website](http://www.cloudfoundry.com).  Once you have
-registered with Cloud Foundry you can use your account to get a
-MicroCloud.  Or ask your Tuturial hosts for a USB key.
 
 # Checklist
 
