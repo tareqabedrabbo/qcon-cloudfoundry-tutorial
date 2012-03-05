@@ -29,7 +29,6 @@ Cut and paste the following app into a ruby file (lets say `env.rb`):
 
 ## Create & push a 4 instance version of the test app, like so:
 
-To push to cloudfoundry you need a unique name for your app.
 Substitute your mcf subdomain (obtained when you register) for
 `<my-mcf>` below.
 
