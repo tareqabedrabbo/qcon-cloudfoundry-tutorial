@@ -6,7 +6,8 @@ Dave Syer
 - twitter: @david_syer
 
 Colin Humphreys
-- Carrenza, London
+- Director of Technology, Carrenza, London
+- twitter: @hatofmonkeys
 
 Tareq Abbedrabbo
 - OpenCredo, London
