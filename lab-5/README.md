@@ -93,7 +93,7 @@ We can give services names, instead of the generated ones:
 	$ vmc create-service redis myredis
 	Creating Service: OK
 
-Binding a service to an application is as simple:
+Binding a service to an application is just as simple:
 
 	$ vmc bind-service mongodb-60b6d hello-spring
 	Binding Service [mongodb-60b6d]: OK
@@ -101,7 +101,7 @@ Binding a service to an application is as simple:
 	$ vmc bind-service myredis hello-spring
 	Binding Service [myredis]: OK
 
-We can also combine creating and binding a service in one command:
+We can combine the two steps in one command:
 
 	$ vmc create-service rabbitmq myrabbit hello-spring
 	Creating Service: OK
