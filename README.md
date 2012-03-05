@@ -5,11 +5,11 @@
 * Lab 1 - install simple sinatra app to cloudfoundry.com
 * micro cloud explanation
 * Lab 2 - install micro cloud
-* Lab 3- use micro to install sinatra app
+* Lab 3 - use micro to install sinatra app
 * runtimes
-* Lab 4- simple spring app
+* Lab 4 - simple spring app
 * services - summary slide on each service
-* Lab 5- spring app + service
+* Lab 5 - spring app + service
 * polyglot/devops fork
 
 # Registration at CloudFoundry.com
