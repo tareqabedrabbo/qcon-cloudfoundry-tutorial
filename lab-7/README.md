@@ -1,6 +1,6 @@
 # Crashing app
 
-This lab contains an application that crashes whenever its url is invoked.
+This lab contains an application that simulate crashes whenever its url is invoked. Cloud Foundry detects that an application crashed whenever it exists with a non-zero code.
 
 ## Deploying the app
 
@@ -12,7 +12,7 @@ Push the Node.js app and accept all the defaults:
 
 Go to the application's url using curl or the browser:
 
-	$ curl curl http://crash.&lt;username&gt;.cloudfoundry.me
+	$ curl curl http://crash.<username>.cloudfoundry.me
 
 You can now type the following command to inspect the history of crashes:
 
