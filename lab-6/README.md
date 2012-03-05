@@ -9,6 +9,10 @@ content using `node.js`.
 
 * Ubuntu users can use `apt-get`:
         $ sudo apt-get install nodejs
+* Mac users can use Homebrew:
+        $ brew install node
+* Node.js is also available on MacPorts:
+        $ sudo port install nodejs
 * Others follow [instructions on node.js site](https://github.com/joyent/node/wiki/Installation).
 
 ## Create the app
