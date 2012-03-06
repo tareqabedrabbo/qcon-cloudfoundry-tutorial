@@ -73,7 +73,7 @@ Tareq Abedrabbo
 
 ### Bonus:
 
-* Additional applicatoins.  Standalone and Spring Batch.
+* Additional applications.  Standalone and Spring Batch.
  
 * Customising/extending
     * Chef
