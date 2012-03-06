@@ -29,7 +29,17 @@ Tareq Abedrabbo
 * Lab 5 - spring app + service
 * polyglot/devops fork
 
-# Checklist
+## Discussion Items
+
+1. ALM - application lifecycle management * (C)
+2. Security roadmap, identity management, OAuth 2, OpenID Connect ** (D)
+3. Open Source installation (D)
+4. Polyglot persistence + Cloud Architecture ** (T)
+5. Customizing Cloudfoundry (C)
+6. STS demo + tunnelling  (T)
+
+
+## Checklist
 
 * Intros + housekeeping: Find out experience levels of attendees
 
