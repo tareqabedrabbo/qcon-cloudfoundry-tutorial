@@ -9,7 +9,7 @@ Colin Humphreys
 - Director of Technology, Carrenza, London
 - twitter: @hatofmonkeys
 
-Tareq Abbedrabbo
+Tareq Abedrabbo
 - Principal Consultant, OpenCredo, London
 - email: tareq.abedrabbo@opencredo.com
 - twitter: @tareq_abedrabbo
